@@ -11,5 +11,5 @@ The dataset used, created by World Values Survey, includes a collection of quest
 •	3 – not very happy <br />
 •	4 – not at all happy <br />
 
-EDA.ipynb presents an exploratory data analysis of the raw survey data.
+EDA.ipynb presents an exploratory data analysis of the raw survey data.  
 main.py runs the model, referencing the methods in the Happiness.py file.
