@@ -1,4 +1,4 @@
-## happiness-level-predictor
+﻿## happiness-level-predictor
 
 The purpose of this project was to: <br />
 •	Find features that correlate most with happiness. <br />
@@ -13,5 +13,10 @@ The dataset used, created by World Values Survey, includes a collection of quest
 
 Additional details of the survey can be found here: http://www.worldvaluessurvey.org/WVSDocumentationWV6.jsp
 
-The file happiness.py creates happiness level predictions for the given survey.
-The file EDA.ipynb presents an quick exploratory data analysis of the raw survey data.
+Run the file called survey.py to take a portion of the survey and see your predicted happiness level based on people with similar responses.
+
+# The actual average happiness levels are shown in the chloropleth map below:
+![alttag](https://github.com/harrydurbin/chicago-bus-analysis/blob/master/img/Actual.png)
+
+# The actual predicted happiness levels based on the trained model are shown in the chloropleth map below:
+![alttag](https://github.com/harrydurbin/chicago-bus-analysis/blob/master/img/Predicted.png)
