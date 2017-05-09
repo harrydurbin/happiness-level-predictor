@@ -18,5 +18,5 @@ Run the file called survey.py to take a portion of the survey and see your predi
 # The actual average happiness levels are shown in the chloropleth map below:
 ![alttag](https://github.com/harrydurbin/happiness-level-predictor/blob/master/img/Actual.png)
 
-# The actual predicted happiness levels based on the trained model are shown in the chloropleth map below:
+# The predicted happiness levels based on the trained model are shown in the chloropleth map below:
 ![alttag](https://github.com/harrydurbin/happiness-level-predictor/blob/master/img/Predicted.png)
