@@ -1,1 +1,1 @@
-see https://happiness-predictor.herokuapp.com/
+See web app at: https://happiness-predictor.herokuapp.com/
