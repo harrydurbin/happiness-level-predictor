@@ -10,13 +10,13 @@ Data from the World Values Survey includes a collection of questionnaire results
 4 – not at all happy
 <br><br>
 
-<ul>Links: 
+Links:<ul> 
 <li><a href="https://github.com/harrydurbin/happiness-level-predictor/blob/master/happiness.ipynb">iPython Notebook code</a></li>
 <li><a href="https://happiness-predictor.herokuapp.com/">Web App to take survey and make happiness prediction</a></li>
 <li><a href="http://arcg.is/SfmmL">ArcGIS Online Web Map</a></li>
 </ul>
 
-<ol>Data was used to:
+Data was used to:<ol>
 <li>Find features that correlate most with happiness.</li>
 <li>Create model to predict subjective, self-reported happiness levels for individuals and averaged for countries.</li>
 <li>Evaluate happiness levels in countries across the world to see spatial influence.</li>
