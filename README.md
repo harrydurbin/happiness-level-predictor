@@ -1,11 +1,11 @@
 <h2>World Happiness Survey Data</h2>
 Data from the World Values Survey includes a collection of questionnaire results for over 86,000 people in 60 countries. The questionnaire asked hundreds of questions, one being, "how happy do you consider yourself currently?"
 <br>
-1 – very happy
+   1 – very happy
 <br>
-2 – rather happy
+   2 – rather happy
 <br>
-3 – not very happy
+   3 – not very happy
 <br>
 4 – not at all happy
 <br><br>
