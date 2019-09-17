@@ -2,13 +2,10 @@
 Data from the World Values Survey includes a collection of questionnaire results for over 86,000 people in 60 countries. The questionnaire asked hundreds of questions, one being, "how happy do you consider yourself currently?"
 <br><br>
 <p><span class="tab">1 – very happy</span></p>
-<br>
 <p><span class="tab">2 – rather happy</span></p>
-<br>
 <p><span class="tab">3 – not very happy</span></p>
-<br>
 <p><span class="tab">4 – not at all happy</span></p>
-<br><br>
+<br>
 
 Links:<ul> 
 <li><a href="https://github.com/harrydurbin/happiness-level-predictor/blob/master/happiness.ipynb">iPython Notebook code</a></li>
