@@ -12,6 +12,7 @@ Links:<ul>
 <li><a href="https://github.com/harrydurbin/happiness-level-predictor/blob/master/happiness.ipynb">iPython Notebook code</a></li>
 <li><a href="https://happiness-predictor.herokuapp.com/">Web App to take survey and make happiness prediction</a></li>
 <li><a href="http://arcg.is/SfmmL">ArcGIS Online Web Map</a></li>
+<li><a href="https://public.tableau.com/views/WorldHappinessAnalysis_15717075848960/WorldHappinessAnalysis?:embed=y&:display_count=yes&:origin=viz_share_link">Tableau Dashboard</a></li>
 </ul>
 
 Data was used to:<ol>
